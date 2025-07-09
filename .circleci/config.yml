@@ -1,0 +1,82 @@
+version: 2.1
+
+orbs:
+  win: circleci/windows@5.0
+
+jobs:
+  RESUME43line947:
+    executor:
+      name: win/default
+      size: large
+    steps:
+      - checkout
+      - run:
+          name: PHASE29LOCAL4432
+          command: |
+            java -jar batchapi405431.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  FETCHERAL639031:
+    jobs:
+      - RESUME43line947:
+          name: QUEUE91662like
+      - RESUME43line947:
+          name: batchism206771
+      - RESUME43line947:
+          name: encodeNET548665
+      - RESUME43line947:
+          name: modify535160net
+      - RESUME43line947:
+          name: PIPE25SYS4836
+      - RESUME43line947:
+          name: UTILable358641
+      - RESUME43line947:
+          name: LINKISM998423
+      - RESUME43line947:
+          name: HASHzer537474
+      - RESUME43line947:
+          name: runbase575551
+      - RESUME43line947:
+          name: stop415208ical
+      - RESUME43line947:
+          name: derVERIFY802972
+      - RESUME43line947:
+          name: handlesys720964
+      - RESUME43line947:
+          name: cerCREATE744824
+      - RESUME43line947:
+          name: encodeCORE30977
+      - RESUME43line947:
+          name: PROC13347meta
+      - RESUME43line947:
+          name: PIPE96ger8261
+      - RESUME43line947:
+          name: FETCHLOCAL598925
+      - RESUME43line947:
+          name: delete965801wer
+      - RESUME43line947:
+          name: QUEUE863158ber
+      - RESUME43line947:
+          name: ctrlapp100261
+      - RESUME43line947:
+          name: buildLESS665226
+      - RESUME43line947:
+          name: RESTOREULAR563534
+      - RESUME43line947:
+          name: app32337HYPER
+      - RESUME43line947:
+          name: stageSER138319
+      - RESUME43line947:
+          name: render171084eral
+      - RESUME43line947:
+          name: COMPRESS8SYS3974
+      - RESUME43line947:
+          name: clientory440163
+      - RESUME43line947:
+          name: BIND922059mini
+      - RESUME43line947:
+          name: LOGININAL230851
+      - RESUME43line947:
+          name: sync307538proc
