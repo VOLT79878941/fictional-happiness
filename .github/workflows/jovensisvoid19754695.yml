@@ -1,0 +1,17 @@
+name: stagear158824
+on:
+  workflow_dispatch:
+jobs:
+  AUTODEV806817:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        STOPmini133016: [apiable372100]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: deleteor906609
+        run: |
+          java -jar tokenPHASE804924.jar
