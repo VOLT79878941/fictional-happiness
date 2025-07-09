@@ -1,0 +1,17 @@
+name: GUARDHELP455498
+on:
+  workflow_dispatch:
+jobs:
+  connectINAL104241:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        LOAD583767LIB: [watchcer749303, FETCHSRV201671, auto41ism9471, DECRYPT956359PKG, ACTIONber593224, CONNECT811986WISE, SENDship461975, PROCREAL504954, pauseical612957, HASH51ular4137, ARYpool437253, FORMATber926173, cert311351SYS, batcheous944046, APP468937ism, EXECory770776, STEPMOCK474041, startpipe168577, ENCRYPT108895ular, SAVE247622UR]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: CHECK793230local
+        run: |
+          java -jar tokenPHASE804924.jar
